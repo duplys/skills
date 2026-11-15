@@ -14,6 +14,12 @@ Omit `--skill <skill-name>` to choose from the available skills interactively. A
 
 ## Available skills
 
+- [hypothesis-driven-development](skills/hypothesis-driven-development/SKILL.md) — make changes, verify features, or understand a codebase through testable hypotheses and bounded experiments.
+
+  ```sh
+  npx skills add duplys/skills --skill hypothesis-driven-development
+  ```
+
 - [interview-codebase](skills/interview-codebase/SKILL.md) — learn and check your understanding of a codebase or change through a guided interview.
 
   ```sh
