@@ -26,6 +26,12 @@ Omit `--skill <skill-name>` to choose from the available skills interactively. A
   npx skills add duplys/skills --skill interview-codebase
   ```
 
+- [tighten-python-linting](skills/tighten-python-linting/SKILL.md) — assess Python lint coverage, propose stricter checks, and implement the changes after agreement.
+
+  ```sh
+  npx skills add duplys/skills --skill tighten-python-linting
+  ```
+
 ## Adding a skill
 
 Create a directory under `skills/` for each skill, with a `SKILL.md` file containing YAML frontmatter and instructions:
